@@ -1,2 +1,3 @@
-# fkS124
-My own github. Here I post all my algorithms, and game projects I made in python.
+# Algorithms
+
+Here I post all my algorithms, from basic mathematical problems to hard cryptographical problems, you'll find many problems and I'll try to extend the list every week !
