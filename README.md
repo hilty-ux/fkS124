@@ -2,6 +2,7 @@
 
 Hi ! I'm Théophile "fkS124" Aumont. I'm a french student.
 I'm currently in game dev with Unity and Pygame.
+I also love algorithmic and math.
 
 # Experience
 
