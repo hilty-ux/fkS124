@@ -5,11 +5,11 @@ I'm currently in game dev with Unity and Pygame.
 
 # Experience
 
-## Developing languages
+#### Developing languages
 - Python : 2.5 years
 - C# : 3 months
 
-## Game dev engines/frameworks
+#### Game dev engines/frameworks
 - Pygame : 2 years
 - Unity : 3 months
 
